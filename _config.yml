@@ -325,6 +325,11 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - Icon
+  - Dockerfile
+  - README.md
+  - nodemon.json
+  - package.json
+  - package-lock.json
 
 # Base URL
 # baseurl: /links
