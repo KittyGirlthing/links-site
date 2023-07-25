@@ -26,13 +26,14 @@ links:
   - Name: Bluesky
     URL: https://bsky.app/profile/mx.te-33.solutions
     Color: '#0085ff'
-    Icon-Class: fab fa-bluesky
+    Icon-Class: fa-regular fa-square
 
     # Mastodon
   - Name: Mastodon
     URL: https://xantronix.social/@kittygirlthing
     Color: '#6364ff'
     Icon-Class: fab fa-mastodon
+    Custom-Attribute: rel="me"
 
     # INSTAGRAM
   - Name: Instagram
@@ -61,13 +62,13 @@ links:
   - Name: Fansly (NSFW)
     URL: https://fansly.com/KittyGirlthing
     Color: '#2699f7'
-    Icon-Class: fab fa-fansly
+    Icon-Class: fa-regular fa-heart
 
     # Fetlife
   - Name: Fetlife (NSFW)
     URL: https://fetlife.com/users/14922843
     Color: '#900'
-    Icon-Class: fab fa-fetlife
+    Icon-Class: fab fa-gitlab
 
   # FACEBOOK
   - Name: Facebook
