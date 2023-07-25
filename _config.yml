@@ -1,11 +1,11 @@
 # YOUR NAME OR TITLE OF YOUR SITE
-name: Harsh Trivedi
+name: Mx.TE-33
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Howdy, I'm Harsh Trivedi. I'm a passionate Tech Lover from Kanpur, apart from that I'm a Graphic Designer and an OpenSource enthusiast Inspired by Imagination.
+tagline: "[mɪks tEE θɜ ti θri] • She/It • Girlthing • Drone Serial # 8377"
 
 # YOUR/BRAND IMAGE URL
-Image_URL: https://github.com/harsh98trivedi.png
+Image_URL: https://cdn.bsky.social/imgproxy/KLQcOgerzCVJE5ZM2kvbj5I6l9aAp9P2iuebNNLot_I/rs:fill:1000:1000:1:0/plain/bafkreifsldpvqyztetuw76ibzdkpc5oztakkhduk2q7tskbpiuprf6tpse@jpeg
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: https://picsum.photos/1080?nocache=
@@ -15,121 +15,147 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: harsh98trivedi
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
+    # TWITTER
+  - Name: Twitter
+    URL: https://twitter.com
+    Username: kittygirlthing
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
+
+    # Bluesky
+  - Name: Bluesky
+    URL: https://bsky.app/profile/mx.te-33.solutions
+    Color: '#0085ff'
+    Icon-Class: fab fa-bluesky
+
+    # Mastodon
+  - Name: Mastodon
+    URL: https://xantronix.social/@kittygirlthing
+    Color: '#6364ff'
+    Icon-Class: fab fa-mastodon
 
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: kittygirlthing
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
-    # TWITTER
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: harsh98trivedi
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
-
-     # THREADS.NET
+    # THREADS.NET
   - Name: Threads
     URL: https://threads.net/
-    Username: harsh98trivedi
+    Username: kittygirlthing
     Color: '#000000'
     Icon-Class: fa-solid fa-at
     Text_Color: '#ffffff'
 
+    # TWITCH
+  - Name: Twitch
+    URL: 'https://twitch.tv'
+    Username: kittygirlthing
+    Icon-Class: fab fa-twitch
+    Color: '#9147fe'
+    Text_Color: '#ffffff'
+
+    # Fansly
+  - Name: Fansly (NSFW)
+    URL: https://fansly.com/KittyGirlthing
+    Color: '#2699f7'
+    Icon-Class: fab fa-fansly
+
+    # Fetlife
+  - Name: Fetlife (NSFW)
+    URL: https://fetlife.com/users/14922843
+    Color: '#900'
+    Icon-Class: fab fa-fetlife
+
+  # FACEBOOK
+  - Name: Facebook
+    URL: 
+    Username: 
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
+
     # CLUBHOUSE
   - Name: Clubhouse
-    URL: https://www.clubhouse.com
-    Username: '@harsh98trivedi'
+    URL: 
+    Username: 
     Color: '#f1c40f'
     Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
   - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: harsh98trivedi
+    URL: 
+    Username: 
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 
     # YOUTUBE
   - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: UCS3zvA_2r1iGT7MB3NVCGAw
+    URL: 
+    Username: 
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
     # GITHUB
   - Name: GitHub
-    URL: http://github.com
-    Username: harsh98trivedi
+    URL: 
+    Username: 
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
     # WordPress
   - Name: WordPress.org
-    URL: 'https://profiles.wordpress.org'
-    Username: harsh98trivedi
+    URL: 
+    Username: 
     Icon-Class: fa-brands fa-wordpress-simple
     Color: '#0073AA'
     Text_Color: '#ffffff'
 
     # EMAIL
   - Name: Email
-    URL: 'mailto:harshtrivedi@duck.com'
+    URL: 
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
 
     # Drupal
   - Name: Drupal
-    URL: 'https://www.drupal.org/u'
-    Username: harsh98trivedi
+    URL: 
+    Username: 
     Icon-Class: fa-brands fa-drupal
     Color: '#0077C0'
     Text_Color: '#ffffff'
 
-    # TWITCH
-  - Name: Twitch
-    URL: 'https://twitch.tv'
-    Username: harsh98trivedi
-    Icon-Class: fab fa-twitch
-    Color: '#9147fe'
-    Text_Color: '#ffffff'
+  
 
     # VIMEO
   - Name: Vimeo
-    URL: 'https://vimeo.com'
-    Username: harshtrivedi
+    URL: 
+    Username: 
     Icon-Class: fab fa-vimeo-v
     Color: '#1ab7ea'
     Text_Color: '#ffffff'
 
     # MESSENGER
   - Name: Messenger
-    URL: https://m.me
-    Username: theharshtrivedi
+    URL: 
+    Username: 
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
 
     # Cal.com
   - Name: Cal.com
-    URL: https://cal.com
-    Username: harshtrivedi
+    URL: 
+    Username: 
     Color: '#888888'
     Icon-Class: fa fa-calendar-check
     Text_Color: '#ffffff'
 
     # REDDIT
   - Name: Reddit
-    URL: http://reddit.com/u
-    Username: harshtrivedi
+    URL: 
+    Username: 
     Color: '#FF4500'
     Icon-Class: fab fa-reddit-alien
 
@@ -142,23 +168,23 @@ links:
 
     # TELEGRAM
   - Name: Telegram
-    URL: http://telegram.me
-    Username: theharshtrivedi
+    URL: 
+    Username: 
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
     # SNAPCHAT
   - Name: Snapchat
-    URL: https://www.snapchat.com/add
-    Username: 'harsh98trivedi'
+    URL: 
+    Username: '
     Color: '#FFFC00'
     Text_Color: '#000000'
     Icon-Class: fab fa-snapchat-ghost
 
     # STEAM
   - Name: Steam
-    URL: https://steamcommunity.com/id
-    Username: 'harshtrivedi'
+    URL: 
+    Username: 
     Color: '#66c0f4'
     Text_Color: '#000000'
     Icon-Class: fab fa-steam
@@ -173,15 +199,15 @@ links:
 
     # PINTEREST
   - Name: Pinterest
-    URL: https://pinterest.com
-    Username: 'harsh98trivedi'
+    URL: 
+    Username: 
     Color: '#E60023'
     Icon-Class: fab fa-pinterest
 
     # BEHANCE
   - Name: Behance
-    URL: https://www.behance.net
-    Username: harsh98trivedi
+    URL: 
+    Username: 
     Color: '#1769ff'
     Icon-Class: fab fa-behance
 
@@ -194,36 +220,36 @@ links:
 
     # DEVIANTART
   - Name: DeviantArt
-    URL: https://www.deviantart.com
-    Username: harshtrivedi
+    URL: 
+    Username: 
     Icon-Class: fab fa-deviantart
     Color: '#05CC46'
     Text_Color: '#ffffff'
 
     # FIGMA
   - Name: Figma
-    URL: https://www.figma.com
-    Username: '@harshtrivedi'
+    URL: 
+    Username: '
     Icon-Class: fab fa-figma
     Color: '#ff2865'
     Text_Color: '#ffffff'
 
     # SPOTIFY
   - Name: Spotify
-    URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
+    URL: 
+    Username: 
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
 
     # SOUNDCLOUD
   - Name: SoundCloud
-    URL: https://www.soundcloud.com
-    Username: harsh98trivedi
+    URL: 
+    Username: 
     Color: '#FE5000'
     Icon-Class: fab fa-soundcloud
 
   - Name: Skype
-    URL: https://join.skype.com/invite/e6vMrfsYKn9e
+    URL: 
     Icon-Class: fa-brands fa-skype
     Color: '#00aff0'
     Text_Color: '#ffffff'
@@ -237,16 +263,16 @@ links:
 
     # MEDIUM
   - Name: Medium
-    URL: 'https://medium.com'
-    Username: '@harsh98trivedi'
+    URL: 
+    Username: 
     Icon-Class: fab fa-medium-m
     Color: '#00ab6c'
     Text_Color: '#ffffff'
 
     # DEV.TO
   - Name: Dev.to
-    URL: 'https://dev.to'
-    Username: harsh98trivedi
+    URL: 
+    Username: 
     Icon-Class: fab fa-dev
     Color: '#ffffff'
     Text_Color: '#000000'
@@ -260,27 +286,24 @@ links:
 
   # BUY ME A COFFEE
   - Name: BuyMeACoffee
-    URL: 'https://buymeacoffee.com'
-    Username: harshtrivedi
+    URL: 
+    Username: 
     Icon-Class: fas fa-mug-hot
     Color: '#FFDD00'
     Text_Color: '#000000'
 
     # CUSTOM LINK
   - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
+    URL: 
     Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
 
   - Name: Links
-    URL: https://github.com/harsh98trivedi/links
+    URL: 
     Icon-Class: fas fa-link
     Color: '#d94869'
     Text_Color: '#ffffff'
-
-# YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
