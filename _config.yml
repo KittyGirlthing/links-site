@@ -14,6 +14,12 @@ Cover_Image: /assets/images/album.png
 links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
+
+    # Tip Jar
+  - Name: Tip Jar
+    URL: https://square.link/u/U4QmtKBs
+    Color: '#000000'
+    Icon-Class: fa-solid fa-circle-dollar-to-slot
     
     # TWITTER
   - Name: Twitter
