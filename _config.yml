@@ -20,6 +20,12 @@ links:
     URL: https://square.link/u/U4QmtKBs
     Color: '#000000'
     Icon-Class: fa-solid fa-circle-dollar-to-slot
+
+    # Gear Guide
+  - Name: Drone Gear Guide
+    URL: /gear/
+    Color: '#8900a6'
+    Icon-Class: fa-solid fa-gear
     
     # TWITTER
   - Name: Twitter
