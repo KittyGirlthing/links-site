@@ -4,6 +4,12 @@ permalink: /gear/
 title: Mx.TE-33 | Gear
 description: "Mx.TE-33's Guide to Drone Gear | Drone Lookbook"
 
+links:
+  - Name: Tip Jar
+    URL: https://square.link/u/U4QmtKBs
+    Color: '#000000'
+    Icon-Class: fa-solid fa-circle-dollar-to-slot
+
 looks:
     - Name: Latex Drone
       Image_URL: /assets/images/IMG_0110.JPEG
