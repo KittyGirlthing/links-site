@@ -1,0 +1,56 @@
+---
+layout: page
+---
+
+<body class="bg-black text-white">
+    <div class="mx-auto my-auto w-screen">
+        <div class="grid place-content-center min-w-full min-h-full py-10 px-7 my-auto min-h-screen absolute z-0">
+            <div class="bg-black h-full min-w-full absolute z-10"
+                style="background-image: url('{{site.Cover_Image | relative_url}}'); filter: blur(15px); background-position: center; background-size: cover;">
+            </div>
+            <div class="bg-black h-full w-full absolute z-20 opacity-60"></div>
+            <span class="text-center z-30">
+                <h1 class="text-5xl text-center font-semibold mt-3 mx-auto">Drone Gear Guide</h1>
+                <hr class="my-2 opacity-25">
+
+                <p class="text-base break-words inline-flex font-normal mt-1.5 mx-auto text-center opacity-50 2xl:w-5/12 xl:w-5/12 md:w-6/12 sm:w-full justify-center">
+                    Every drone needs its gear. And this drone has a bunch for its various looks. 
+                    Here's its gear, broken down by look.
+                </p>
+            </span>
+
+            <div class="grid 2xl:grid-cols-2 xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 my-7 gap-10">
+
+                {% for look in page.looks %}
+                <div class="z-30">
+                    <h1 class="text-xl font-semibold mt-3 mb-3">{{look.Name}}</h1>
+           
+                    <span class="flex justify-start z-30 mt-3 mb-10 mr-3">
+                        
+                        <img 
+                            class="w-1/2 sm:1 shadow-2xl lg:border-2 md:border-2 sm:border-2 ml-3 mr-3 hover:scale-125"
+                            src="{{look.Image_URL | relative_url}}">
+                            
+                        <p class="text-base break-words font-normal mt-3 ml-3 mx-auto text-left opacity-80 2xl:w-5/12 xl:w-5/12 md:w-6/12 sm:w-full">
+                            {% for part in look.Parts %}
+                                {{part.Type}}: <br>
+                                {% if part.URL %}
+                                    <a class="text-pink-400 inline-flex" href="{{part.URL}}" target="_blank">
+                                {% endif %}
+                                    {{part.Name}}
+                                {% if part.URL %}
+                                    </a>
+                                {% endif %}
+                                <br><br>
+                            {% endfor %}
+
+                        </p>
+                    </span>
+                </div>
+                {% endfor %}
+
+            </div>
+        </div>
+    </div>
+</body>
+
