@@ -25,13 +25,13 @@ layout: page
                 <div class="z-30">
                     <h1 class="text-xl font-semibold mt-3 mb-3">{{look.Name}}</h1>
            
-                    <span class="flex justify-start z-30 mt-3 mb-10 mr-3">
+                    <span class="flex items-start justify-start z-30 mt-3 mb-10 mr-3">
                         
                         <img 
-                            class="w-1/2 sm:1 shadow-2xl lg:border-2 md:border-2 sm:border-2 ml-3 mr-3 hover:scale-125"
+                            class="w-1/2 ml-3 mr-3 object-contain place-content-around"
                             src="{{look.Image_URL | relative_url}}">
                             
-                        <p class="text-base break-words font-normal mt-3 ml-3 mx-auto text-left opacity-80 2xl:w-5/12 xl:w-5/12 md:w-6/12 sm:w-full">
+                        <p class="text-base break-words font-normal ml-3 mx-auto text-left opacity-80 2xl:w-5/12 xl:w-5/12 md:w-6/12 sm:w-full">
                             {% for part in look.Parts %}
                                 {{part.Type}}: <br>
                                 {% if part.URL %}
