@@ -30,7 +30,7 @@ looks:
           Name: MSA Millennium
           
     - Name: School Drone
-      Image_URL: /assets/images/IMG_0110.JPEG
+      Image_URL: /assets/images/IMG_0477.JPEG
       Parts:
         - Type: Dress
           Name: Littleforbig Magical Romper
