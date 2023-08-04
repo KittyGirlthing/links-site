@@ -9,6 +9,11 @@ links:
     Color: '#000000'
     Icon-Class: fa-solid fa-circle-dollar-to-slot
 
+  - Name: Ko-fi
+    URL: https://ko-fi.com/mxte33
+    Color: '#FF5E5B'
+    Icon-Class: kofi-icon
+
   - Name: Drone Gear Guide
     URL: /gear/
     Color: '#8900a6'

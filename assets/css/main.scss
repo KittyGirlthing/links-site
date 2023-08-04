@@ -47,4 +47,13 @@ html {
             align-items: center;
         }
     }
+    .kofi-icon:before {
+        content: '';
+        background:url('/assets/images/kofi-logo.png');
+        background-size:cover;
+        width:24px;
+        height:24px;
+        display:flex;
+    }
+
 }
