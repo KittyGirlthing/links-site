@@ -6,7 +6,7 @@ description: "Mx.TE-33's Guide to Drone Gear | Drone Lookbook"
 
 links:
   - Name: Tip Jar
-    URL: https://square.link/u/U4QmtKBs
+    URL: https://ko-fi.com/mxte33/?hidefeed=true&widget=true
     Color: '#000000'
     Icon-Class: fa-solid fa-circle-dollar-to-slot
 
