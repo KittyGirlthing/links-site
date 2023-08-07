@@ -24,19 +24,19 @@ layout: page
                 </p>
             </span>
 
-            <div class="grid 2xl:grid-cols-2 xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 my-7 gap-10">
+            <div class="grid 2xl:grid-cols-2 xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 my-7">
 
                 {% for look in page.looks %}
                 <div class="z-30">
                     <h1 class="text-xl font-semibold mt-3 mb-3">{{look.Name}}</h1>
            
-                    <span class="flex items-start justify-start z-30 mt-3 mb-10 mr-3">
+                    <span class="flex flex-wrap items-start justify-start z-30 mt-3 mb-10 mr-3">
                         
                         <img 
-                            class="w-1/2 ml-3 mr-3 object-contain place-content-around"
+                            class="md:w-1/2 sm:w-full ml-3 mr-3 mb-3 object-contain place-content-around"
                             src="{{look.Image_URL | relative_url}}">
                             
-                        <p class="text-base break-words font-normal ml-3 mx-auto text-left opacity-80 2xl:w-5/12 xl:w-5/12 md:w-6/12 sm:w-full">
+                        <p class="text-base break-words font-normal ml-3 mx-auto text-left opacity-80 2xl:w-5/12 xl:w-5/12 md:w-5/12 sm:w-full">
                             {% for part in look.Parts %}
                                 {{part.Type}}: <br>
                                 {% if part.URL %}
