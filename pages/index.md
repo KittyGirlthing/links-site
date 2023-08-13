@@ -51,7 +51,7 @@ links:
 
   - Name: Twitch
     URL: 'https://twitch.tv'
-    Username: kittygirlthing
+    Username: mxte33
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
