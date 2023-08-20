@@ -34,6 +34,10 @@ looks:
         - Type: Mask
           Name: MSA Millennium
 
+        - Type: LED Mask Assembly 
+          Name: Tutorial
+          URL: /gear/led-tutorial
+
     - Name: Latex Drone
       Image_URL: /assets/images/IMG_0110.JPEG
       Parts:
