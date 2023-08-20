@@ -11,7 +11,7 @@ onpage_description: A quick tutorial on how to assemble a LED drone mask.
 # TODO: DRY this header bit up
 links:
   - Name: Tip Jar
-    URL: https://square.link/u/U4QmtKBs
+    URL: https://ko-fi.com/mxte33/?hidefeed=true&widget=true
     Color: '#000000'
     Icon-Class: fa-solid fa-circle-dollar-to-slot
 ---
