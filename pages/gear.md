@@ -4,6 +4,11 @@ permalink: /gear/
 title: Mx.TE-33 | Gear
 description: "Mx.TE-33's Guide to Drone Gear | Drone Lookbook"
 
+header_title: Drone Gear Guide
+onpage_description: Every drone needs its gear. And this drone has a bunch for its various looks.
+                    Here's its gear, broken down by look.
+
+# TODO: DRY this header bit up
 links:
   - Name: Tip Jar
     URL: https://ko-fi.com/mxte33/?hidefeed=true&widget=true
@@ -84,6 +89,4 @@ looks:
 
         - Type: Mask
           Name: MSA Millennium
-          
-
 ---
