@@ -31,3 +31,9 @@ exclude:
 
 # Default Markdown Engine
 markdown: kramdown
+
+plugins:
+  - jekyll-postcss
+
+postcss:
+  cache: false

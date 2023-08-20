@@ -27,3 +27,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 gem "wdm" if Gem.win_platform?
+
+# PostCSS plugin, used for building with Tailwind CSS
+gem 'jekyll-postcss'

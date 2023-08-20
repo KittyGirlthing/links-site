@@ -8,7 +8,6 @@ header_title: LED Mask Tutorial
 onpage_description: A quick tutorial on how to assemble a LED drone mask.
                     Requires no special tools or maker skills. Part list is below the video.
 
-
 # TODO: DRY this header bit up
 links:
   - Name: Tip Jar
@@ -19,7 +18,7 @@ links:
 
 <div class="flex flex-col items-center z-30 mt-10">
 
-  <iframe class="z-30 w-full" height="475" src="https://www.youtube-nocookie.com/embed/7gk-C1hocuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe class="z-30 w-full aspect-video" src="https://www.youtube-nocookie.com/embed/7gk-C1hocuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
   <p class="text-base break-words font-normal mt-10 ml-3 mx-auto text-left opacity-80 w-full">
