@@ -25,11 +25,11 @@ looks:
 
         - Type: Headphones
           Name: YOWU RGB Cat Ear Headphone 4
-          URL: https://www.amazon.com/gp/product/B09WDSBJ3Z/?&_encoding=UTF8&tag=mxte33-20&linkCode=ur2&linkId=e4f45dd2c6d0bfeac7e0eb57603a4063&camp=1789&creative=9325
+          URL: https://www.amazon.com/gp/product/B09WDSBJ3Z?&_encoding=UTF8&tag=mxte330f-20&linkCode=ur2&linkId=c7894098e3de6cf13e1a53be082cb751&camp=1789&creative=9325
 
         - Type: LED Matrix
           Name: Ultra-Thin Flexible LED Screen (Large RGB) by Lumen Couture
-          URL: https://www.amazon.com/gp/product/B08DJC4CHT?&_encoding=UTF8&tag=mxte33-20&linkCode=ur2&linkId=faaaba9ca00ec8d58a24fed0c7e1cd45&camp=1789&creative=9325
+          URL: https://www.amazon.com/gp/product/B08DJC4CHT?&_encoding=UTF8&tag=mxte330f-20&linkCode=ur2&linkId=374d0241fe2cc18bc7dfcb769cea249c&camp=1789&creative=9325
 
         - Type: Mask
           Name: MSA Millennium
@@ -47,7 +47,7 @@ looks:
 
         - Type: Headphones
           Name: YOWU RGB Cat Ear Headphone 4
-          URL: https://www.amazon.com/gp/product/B09WDSBJ3Z/?&_encoding=UTF8&tag=mxte33-20&linkCode=ur2&linkId=e4f45dd2c6d0bfeac7e0eb57603a4063&camp=1789&creative=9325
+          URL: https://www.amazon.com/gp/product/B09WDSBJ3Z?&_encoding=UTF8&tag=mxte330f-20&linkCode=ur2&linkId=c7894098e3de6cf13e1a53be082cb751&camp=1789&creative=9325
 
         - Type: Mask
           Name: MSA Millennium
@@ -67,11 +67,11 @@ looks:
       Parts:
         - Type: Dress
           Name: Littleforbig Magical Romper
-          URL: https://www.amazon.com/gp/product/B071JHMRYD?&_encoding=UTF8&tag=mxte33-20&linkCode=ur2&linkId=9d4b988d5848742952c9692d4ef8e60d&camp=1789&creative=9325
+          URL: https://www.amazon.com/gp/product/B071JHMRYD?&_encoding=UTF8&tag=mxte330f-20&linkCode=ur2&linkId=61af998a8c1e1bde39209d249ecf8a9d&camp=1789&creative=9325
 
         - Type: Paws
           Name: Nydotd Cat Paw Pad Fingerless Gloves
-          URL: https://www.amazon.com/gp/product/B0B6F8FFFG?&_encoding=UTF8&tag=mxte33-20&linkCode=ur2&linkId=dc844d6a5a7caaca0a38320cb134160c&camp=1789&creative=9325
+          URL: https://www.amazon.com/gp/product/B0B6F8FFFG?&_encoding=UTF8&tag=mxte330f-20&linkCode=ur2&linkId=1a9c15709cfc67b669d5ec6a9895f2fb&camp=1789&creative=9325
 
         - Type: Backpack
           Name: Kånken Rainbow Mini

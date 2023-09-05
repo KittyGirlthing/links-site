@@ -24,7 +24,7 @@ links:
   <p class="text-base break-words font-normal mt-10 ml-3 mx-auto text-left opacity-80 w-full">
   
     LED Matrix: <br>
-        <a class="text-pink-400 inline-flex" href="https://www.amazon.com/gp/product/B08DJC4CHT?&_encoding=UTF8&tag=mxte33-20&linkCode=ur2&linkId=faaaba9ca00ec8d58a24fed0c7e1cd45&camp=1789&creative=9325" target="_blank">
+        <a class="text-pink-400 inline-flex" href="https://www.amazon.com/gp/product/B08DJC4CHT?&_encoding=UTF8&tag=mxte330f-20&linkCode=ur2&linkId=374d0241fe2cc18bc7dfcb769cea249c&camp=1789&creative=9325" target="_blank">
         Ultra-Thin Flexible LED Screen (Large RGB) by Lumen Couture
         </a>
     <br><br>
