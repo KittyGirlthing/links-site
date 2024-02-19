@@ -51,7 +51,7 @@ links:
 
   - Name: Twitch
     URL: 'https://twitch.tv'
-    Username: mxte33
+    Username: mixtythepuppycat
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
