@@ -29,7 +29,7 @@ looks:
 
         - Type: LED Matrix
           Name: Ultra-Thin Flexible LED Screen (Large RGB) by Lumen Couture
-          URL: https://www.amazon.com/gp/product/B08DJC4CHT?&_encoding=UTF8&tag=mxte330f-20&linkCode=ur2&linkId=374d0241fe2cc18bc7dfcb769cea249c&camp=1789&creative=9325
+          URL: https://amzn.to/3OPf3fl
 
         - Type: Mask
           Name: MSA Millennium
