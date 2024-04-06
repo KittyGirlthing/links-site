@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /
-title: Mx.TE-33 | Links
-description: "[mɪks tEE θɜ ti θri] • She/They/It • Girlthing • Part-time Mxtress, Full-time Brat • Drone Serial # 8377"
+title: Mixty | Links
+description: "Just your friendly neighborhood she/they solo poly trans femme ⬡-Drone #8377 gamer puppycat girl switch who loves run on sentences"
 links:
   - Name: Tip Jar
     URL: https://ko-fi.com/mxte33/?hidefeed=true&widget=true
