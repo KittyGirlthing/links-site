@@ -55,14 +55,4 @@ links:
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
     Text_Color: '#ffffff'
-
-  - Name: Fansly (NSFW)
-    URL: https://fansly.com/KittyGirlthing
-    Color: '#2699f7'
-    Icon-Class: fa-regular fa-heart
-
-  - Name: Fetlife (NSFW)
-    URL: https://fetlife.com/users/14922843
-    Color: '#900'
-    Icon-Class: fab fa-gitlab
 ---
