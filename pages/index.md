@@ -18,12 +18,31 @@ links:
     URL: /gear/
     Color: '#8900a6'
     Icon-Class: fa-solid fa-gear
+    
+  - Name: Twitch
+    URL: 'https://twitch.tv'
+    Username: mixtythepuppycat
+    Icon-Class: fab fa-twitch
+    Color: '#9147fe'
+    Text_Color: '#ffffff'
+
+  - Name: Youtube
+    URL: 'https://www.youtube.com/@MixtyThePuppycat'
+    Icon-Class: fab fa-youtube
+    Color: '#ff0000'
+    Text_Color: '#ffffff'
 
   - Name: Twitter
     URL: https://twitter.com
     Username: kittygirlthing
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
+    
+  - Name: Instagram
+    URL: https://www.instagram.com
+    Username: kittygirlthing
+    Color: '#DD2A7B'
+    Icon-Class: fab fa-instagram
 
   - Name: Bluesky
     URL: https://bsky.app/profile/mx.te-33.solutions
@@ -36,23 +55,10 @@ links:
     Icon-Class: fab fa-mastodon
     Custom-Attribute: rel="me"
 
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: kittygirlthing
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
-
   - Name: Threads
     URL: https://threads.net/
     Username: kittygirlthing
     Color: '#000000'
     Icon-Class: fa-solid fa-at
-    Text_Color: '#ffffff'
-
-  - Name: Twitch
-    URL: 'https://twitch.tv'
-    Username: mixtythepuppycat
-    Icon-Class: fab fa-twitch
-    Color: '#9147fe'
     Text_Color: '#ffffff'
 ---
