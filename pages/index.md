@@ -40,7 +40,7 @@ links:
     
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: kittygirlthing
+    Username: mixtythepuppycat
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
@@ -49,16 +49,16 @@ links:
     Color: '#0085ff'
     Icon-Class: fa-regular fa-square
 
+  - Name: Threads
+    URL: https://threads.net/
+    Username: mixtythepuppycat
+    Color: '#000000'
+    Icon-Class: fa-solid fa-at
+    Text_Color: '#ffffff'
+
   - Name: Mastodon
     URL: https://xantronix.social/@kittygirlthing
     Color: '#6364ff'
     Icon-Class: fab fa-mastodon
     Custom-Attribute: rel="me"
-
-  - Name: Threads
-    URL: https://threads.net/
-    Username: kittygirlthing
-    Color: '#000000'
-    Icon-Class: fa-solid fa-at
-    Text_Color: '#ffffff'
 ---
