@@ -26,6 +26,12 @@ links:
     Color: '#9147fe'
     Text_Color: '#ffffff'
 
+  - Name: Discord
+    URL: 'https://discord.gg/frZYwJTKru'
+    Icon-Class: fab fa-discord
+    Color: '#5865F2'
+    Text_Color: '#ffffff'
+
   - Name: Youtube
     URL: 'https://www.youtube.com/@MixtyThePuppycat'
     Icon-Class: fab fa-youtube
