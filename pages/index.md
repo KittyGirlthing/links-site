@@ -37,12 +37,6 @@ links:
     Icon-Class: fab fa-youtube
     Color: '#ff0000'
     Text_Color: '#ffffff'
-
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: kittygirlthing
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
     
   - Name: Instagram
     URL: https://www.instagram.com
