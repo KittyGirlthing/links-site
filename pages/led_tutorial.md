@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /gear/led-tutorial
-title: Mx.TE-33 | LED Mask Tutorial
-description: "Mx.TE-33's Guide to its LED mask"
+title: Mixty | LED Mask Tutorial
+description: "Mixty's Guide to its LED mask"
 
 header_title: LED Mask Tutorial
 onpage_description: A quick tutorial on how to assemble a LED drone mask.

@@ -1,8 +1,8 @@
 ---
 layout: gear
 permalink: /gear/
-title: Mx.TE-33 | Gear
-description: "Mx.TE-33's Guide to Drone Gear | Drone Lookbook"
+title: Mixty | Gear
+description: "Mixty's Guide to Drone Gear | Drone Lookbook"
 
 header_title: Drone Gear Guide
 onpage_description: Every drone needs its gear. And this drone has a bunch for its various looks.
