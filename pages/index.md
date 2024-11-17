@@ -18,6 +18,11 @@ links:
     URL: /gear/
     Color: '#8900a6'
     Icon-Class: fa-solid fa-gear
+
+  - Name: Bluesky
+    URL: https://bsky.app/profile/mixty.pet
+    Color: '#0085ff'
+    Icon-Class: fa-regular fa-square
     
   - Name: Twitch
     URL: 'https://twitch.tv'
@@ -43,11 +48,6 @@ links:
     Username: mixtythepuppycat
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
-
-  - Name: Bluesky
-    URL: https://bsky.app/profile/mx.te-33.solutions
-    Color: '#0085ff'
-    Icon-Class: fa-regular fa-square
 
   - Name: Threads
     URL: https://threads.net/
