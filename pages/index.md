@@ -14,6 +14,11 @@ links:
     Color: '#4D54FF'
     Icon-Class: fa-solid fa-crown
 
+  - Name: Store
+    URL: /store/
+    Color: '#BE658F'
+    Icon-Class: fa-solid fa-cart-shopping
+
   - Name: Drone Gear Guide
     URL: /gear/
     Color: '#8900a6'
