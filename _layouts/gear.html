@@ -2,7 +2,7 @@
 layout: page
 ---
 
-            <div class="grid 2xl:grid-cols-2 xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 my-7">
+            <div class="grid 2xl:grid-cols-2 xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-1 sm:grid-cols-1 my-7 max-w-screen-2xl">
 
                 {% for look in page.looks %}
                 <div class="z-30">
@@ -16,7 +16,9 @@ layout: page
                             
                         <p class="text-base break-words font-normal ml-3 mx-auto text-left opacity-80 2xl:w-5/12 xl:w-5/12 md:w-5/12 sm:w-full">
                             {% for part in look.Parts %}
-                                {{part.Type}}: <br>
+                                {% if part.Type %}
+                                    {{part.Type}}: <br>
+                                {% endif %}
                                 {% if part.URL %}
                                     <a class="text-pink-400 inline-flex" href="{{part.URL}}" target="_blank">
                                 {% endif %}
