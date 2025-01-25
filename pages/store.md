@@ -24,8 +24,36 @@ looks:
 
         - Name: Please note, since these are 3d printed, there might be slight variations between the pair photographed and the ones you order.
 
-    - Name: Sleep Token Earrings
-      Image_URL: /assets/images/sleeptokenpreview.png
+    - Name: Ritual Earrings
+      Image_URL: /assets/images/band.JPEG
       Parts:
-        - Name: Coming Soon!
+        - Name: You know that band your partner is super into but you're not sure who they are? Get them something to rock out in during one of their rituals!
+
+        - Type: Price
+          Name: $15 USD + shipping
+
+        - Type: Colors
+          Name: Available in red, black, white, or tricolor. Tricolor, as seen in the top right earring, is black on one side, red on the other, with a white strip in the middle.
+
+        - Type: Material
+          Name: 3d printed PLA with sterling silver plated earring hooks
+
+        - Type: Size
+          Name: 37mm x 31mm (sans hook)
+
+        - Name: Please note, since these are 3d printed, there might be slight variations between the pair photographed and the ones you order.
+
+    - Name: Mixty Sticker
+      Image_URL: /assets/images/mixtysticker.JPEG
+      Parts:
+        - Name: Does your water bottle severely lack stickers? Go ahead and fix that with a Mixty the Puppycat smug emoji sticker!
+
+        - Type: Price
+          Name: $4 USD + shipping
+
+        - Type: Material
+          Name: Matte finish sticker
+
+        - Type: Size
+          Name: 58mm x 58mm
 ---
