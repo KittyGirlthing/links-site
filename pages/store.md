@@ -5,7 +5,7 @@ title: Mixty Solutions Store
 description: "Mixty Solutions Store"
 
 header_title: Mixty Solutions Store
-onpage_description: To order, contact Mixty on <a class="text-pink-400 inline" href="https://bsky.app/profile/mixty.pet" target="_blank">BlueSky</a>, <a class="text-pink-400 inline" href="https://www.instagram.com/mixtythepuppycat/" target="_blank">Instagram</a>, or Discord. <br>Shipping is $10 USD for domestic orders. Contact for details on international.</br>
+onpage_description: To order, contact Mixty on <a class="text-pink-400 inline" href="https://bsky.app/profile/mixty.pet" target="_blank">BlueSky</a>, <a class="text-pink-400 inline" href="https://www.instagram.com/mixtythepuppycat/" target="_blank">Instagram</a>, or Discord. <br>Shipping is $10 USD for domestic orders. International starts at $30 USD, contact for details.</br>
 
 looks:
     - Name: HexCorp Earrings
