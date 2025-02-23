@@ -22,6 +22,23 @@ looks:
         - Type: Material
           Name: 3d printed PLA case and key cap, mechanical keyboard clicky switch (others available upon request), and metal keychain clasps
 
+    - Name: HexCorp Asset Tag
+      Image_URL: /assets/images/hexcorptag.JPEG
+      Parts:
+        - Name: Custom HexCorp Asset Tag to help you quickly and conveniently identify your drone. Each one can be personalized with the drone's serial number.
+
+        - Type: Price
+          Name: $10 USD
+
+        - Type: Color
+          Name: Black base with purple symbol and lettering
+
+        - Type: Material
+          Name: 3d printed PLA
+
+        - Type: Size
+          Name: 35mm x 35mm x 3mm (sans keychain)
+
     - Name: HexCorp Mechanical Key Cap
       Image_URL: /assets/images/keycap.JPEG
       Parts:
