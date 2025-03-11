@@ -8,6 +8,20 @@ header_title: Mixty Solutions Store
 onpage_description: To order, contact Mixty on <a class="text-pink-400 inline" href="https://bsky.app/profile/mixty.pet" target="_blank">BlueSky</a>, <a class="text-pink-400 inline" href="https://www.instagram.com/mixtythepuppycat/" target="_blank">Instagram</a>, or Discord. If you don't like DMs, some items can be purchased on <a class="text-pink-400 inline" href="https://ko-fi.com/mixty/shop" target="_blank">Ko-Fi</a>. <br> <br>Please note, since most of these are 3d printed, there might be slight variations between the photographed items and the ones you receive.</br> <br>Shipping is $10 USD for domestic orders. International varies ($25+), contact for quote.</br>
 
 looks:
+    - Name: Series 1 Sticker Pack - NEW
+      Image_URL: /assets/images/sticker_sheet_series1.JPEG
+      Parts:
+        - Name: Sticker bomb your nearest surface with 12 stickers that consist of various text and pixels I slapped together.
+
+        - Type: Price
+          Name: $5 USD (free US standalone shipping)
+
+        - Type: Material
+          Name: Thermal Paper Sticker
+
+        - Type: Size (per sticker)
+          Name: 50mm x 50mm
+
     - Name: Fidget Clicker Key
       Image_URL: /assets/images/clicker.JPEG
       Parts:
