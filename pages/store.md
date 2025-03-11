@@ -39,13 +39,13 @@ looks:
         - Type: Size
           Name: 35mm x 35mm x 3mm (sans keychain)
 
-    - Name: HexCorp Mechanical Key Cap
+    - Name: HexCorp Mechanical Key Cap - SOLD OUT
       Image_URL: /assets/images/keycap.JPEG
       Parts:
         - Name: Put this on your RGB human interface device and they'll never know you're a member of the hive.
 
         - Type: Price
-          Name: $8 USD ($3 discount if purchased with other products)
+          Name: SOLD OUT
         
         - Type: Color
           Name: Translucent base with a purple top
