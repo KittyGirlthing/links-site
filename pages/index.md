@@ -15,7 +15,7 @@ links:
     Icon-Class: fa-solid fa-crown
 
   - Name: Store
-    URL: /store/
+    URL: https://store.mixty.pet
     Color: '#BE658F'
     Icon-Class: fa-solid fa-cart-shopping
 
