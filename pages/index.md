@@ -5,14 +5,9 @@ title: Mixty | Links
 description: "Just your friendly neighborhood she/they solo poly trans femme ⬡-Drone #8377 gamer puppycat girl switch who loves run on sentences"
 links:
   - Name: Tip Jar
-    URL: https://ko-fi.com/mxte33/?hidefeed=true&widget=true
+    URL: https://ko-fi.com/mixty
     Color: '#000000'
     Icon-Class: fa-solid fa-circle-dollar-to-slot
-
-  - Name: Throne
-    URL: https://throne.com/mixtythepuppycat
-    Color: '#4D54FF'
-    Icon-Class: fa-solid fa-crown
 
   - Name: Store
     URL: https://store.mixty.pet
